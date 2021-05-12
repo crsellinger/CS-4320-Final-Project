@@ -1,3 +1,0 @@
-#!/home/benjamin/CS_Courses/CS4320/finalProject/CS-4320-Final-Project/virtualenvs/augur-toxicity-reports/bin/python3
-from numba.pycc import main
-main()
