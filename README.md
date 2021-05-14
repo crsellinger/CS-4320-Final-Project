@@ -13,4 +13,4 @@ Setup:
   4. Change into main directory of your clone and run command: jupyter lab
 
 Notes:
-  -Run jupyter lab as normal
+  Run jupyter lab as normal
